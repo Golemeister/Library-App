@@ -1,0 +1,16 @@
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\kurs.SYSTEMPRO\Documents\Visual Studio 2010\Projects\google play\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
